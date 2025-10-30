@@ -57,7 +57,7 @@ h2::after {
   min-height: 90vh;
   background: 
     linear-gradient(135deg, rgba(192, 0, 0, 0.85) 0%, rgba(139, 0, 0, 0.75) 100%),
-    url('images/hero-bg.jpg') center/cover no-repeat fixed;
+    url('images/CH14-scaled.jpg') center/cover no-repeat fixed;
   color: #fff;
   position: relative;
   overflow: hidden;
