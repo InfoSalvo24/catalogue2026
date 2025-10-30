@@ -1,0 +1,470 @@
+[
+  {
+    "name": "Saucisses blanches nature",
+    "refs": [
+      { "ref": "8000GA-PFS", "weight": "5 kg" },
+      { "ref": "813506-PF", "weight": "1 kg" }
+    ],
+    "category": "Saucisseries cuites",
+    "image": "images/BCN02-SF.png"
+  },
+  {
+    "name": "Saucisses blanches fines herbes",
+    "refs": [
+      { "ref": "8001GA-PFS", "weight": "5 kg" }
+    ],
+    "category": "Saucisseries cuites",
+    "image": "images/BCFH01-SF.png"
+  },
+  {
+    "name": "Saucisses blanches tomate basilic",
+    "refs": [
+      { "ref": "813969-PFS", "weight": "5 kg" }
+    ],
+    "category": "Saucisseries cuites",
+    "image": "images/BLTB-SF.png"
+  },
+  {
+    "name": "Saucisses blanches fromage",
+    "refs": [
+      { "ref": "8035GA-PFS", "weight": "5 kg" },
+      { "ref": "813524-PF", "weight": "1 kg" }
+    ],
+    "category": "Saucisseries cuites",
+    "image": "images/BCF02-SF.png"
+  },
+  {   
+    "name": "Saucisses blanches épinard",
+    "refs": [
+      { "ref": "813968-PFS", "weight": "5 kg" }
+    ],
+    "category": "Saucisseries cuites",
+    "image": "images/BLEPI-SF.png"
+  },
+  {
+    "name": "Saucisses blanches kebab",
+    "refs": [
+      { "ref": "813970-PFS", "weight": "5 kg" }
+    ],  
+    "category": "Saucisseries cuites",
+    "image": "images/BLK-SF.png"
+  },
+  {
+    "name": "Saucisses blanches fromage thym citron",
+    "refs": [
+      { "ref": "814237-PFS", "weight": "5 kg" },
+      { "ref": "814358-PF", "weight": "1 kg" }
+    ],
+    "category": "Saucisseries cuites",
+    "image": "images/BCFT01-SF.png"
+  },
+  {  
+    "name": "Hot dogs fromage",
+    "refs": [
+      { "ref": "8102GA-PFS", "weight": "5 kg" },
+      { "ref": "814359-PF", "weight": "1 kg" }
+    ],
+    "category": "Saucisseries cuites",
+    "image": "images/KNACKFR02-SF.png"
+  },
+  {
+    "name": "Sucuk",
+    "refs": [
+      { "ref": "814363-PFS", "weight": "4 kg" }
+    ],
+    "category": "Saucisseries cuites",
+    "image": "images/SUCUK-SF.png"
+  },
+  {
+    "name": "Hot dogs fumées",
+    "refs": [
+      { "ref": "813525-PF", "weight": "1 kg" },
+      { "ref": "8012GA-PFS", "weight": "5 kg" }
+    ], 
+    "category": "Saucisseries cuites",
+    "image": "images/KNACK02-SF.png"
+  },
+  {
+    "name": "Hot dogs épicées",
+    "refs": [
+      { "ref": "8103GA-PFS", "weight": "4 kg" },
+      { "ref": "8116C10-PF", "weight": "600 g" }
+    ],
+    "category": "Saucisseries cuites",
+    "image": "images/KNACK02-SF.png"
+  },
+  {
+    "name": "Saucisses fumées à cuire",
+    "refs": [
+      { "ref": "8565DI-PV", "weight": "4 pièces" }
+    ],  
+    "category": "Saucisseries cuites",
+    "image": "images/SaucisseC-SF.png"
+  },
+  {
+    "name": "Chipolatas nature",
+    "refs": [
+        { "ref": "813959-PFS", "weight": "5 kg" },
+        { "ref": "813972-PF", "weight": "1 kg" }
+        ],  
+    "category": "Saucisseries crues",
+    "image": "images/CN-SF.png"
+  },
+    {
+        "name": "Chipolatas au fromage",
+        "refs": [
+            { "ref": "813963-PF", "weight": "5 kg" },
+            { "ref": "813890-PF", "weight": "1 kg" }
+            ],  
+        "category": "Saucisseries crues",
+        "image": "images/CN-SF.png"
+    },
+    {
+        "name": "Chipolatas tomate basilic",
+        "refs": [
+            { "ref": "813961-PFS", "weight": "5 kg" },
+            { "ref": "814353-PF", "weight": "1 kg" }
+            ],  
+        "category": "Saucisseries crues",
+        "image": "images/CHIPOTOMBA-SF.png"
+    },
+    {
+        "name": "Chipolatas aux Herbes",
+        "refs": [
+            { "ref": "813960-PFS", "weight": "5 kg" },
+            { "ref": "813507-PF", "weight": "1 kg" }
+            ],  
+        "category": "Saucisseries crues",
+        "image": "images/CH-SF.png"
+    },
+    {
+        "name": "Chipolatas au curry",
+        "refs": [
+            { "ref": "813958-PFS", "weight": "5 kg" },
+            { "ref": "814350-PF", "weight": "1 kg" }
+            ],  
+        "category": "Saucisseries crues",
+        "image": "images/CHIPOCURR-SF.png"
+    },
+    {
+        "name": "Chipolatas façon kebab",
+        "refs": [
+            { "ref": "813964-PFS", "weight": "5 kg" },
+            { "ref": "814352-PF", "weight":  "1 kg" }
+            ],  
+        "category": "Saucisseries crues",
+        "image": "images/CHPOKEB-SF.png"
+    },
+    {
+        "name": "Chipolatas Tunisiennes",
+        "refs": [
+            { "ref":  "813962-PFS",  "weight":  "5 kg" },
+            {  "ref":  "813891",  "weight":  "1 kg" }
+            ],  
+        "category":  "Saucisseries crues",
+        "image":  "images/CHIPOTUNI-SF.png"
+    },
+    {
+        "name":  "Chorizo à griller ",
+        "refs": [
+            {  "ref":  "813965-PFS",  "weight":  "5 kg" }
+            ],
+        "category":  "Saucisseries crues",
+        "image":  "images/CHOGRI02-SF.png"
+    },
+    {
+        "name":  "Merguez de bœuf piquantes ",
+        "refs": [
+            {  "ref":  "813967-PFS",  "weight":  "5 kg" },
+            {  "ref":  "813523-PF",  "weight":  "1 kg" }
+            ],  
+        "category":  "Saucisseries crues",
+        "image":  "images/MER-SF.png"
+    },
+    {
+        "name":  "Saucisses Toulouse brasse",
+        "refs": [
+            {  "ref":  "813455-PFS",  "weight":  "5 kg" }
+            ],  
+        "category":  "Saucisseries crues",
+        "image":  "images/TOUL01-SF.png"
+    },
+    {
+        "name":  "Chipolatas échalotes",
+        "refs": [
+            {  "ref":  "813724-PFS",  "weight":  "5 kg" },
+            {  "ref":  "813727-PF",  "weight":  "1 kg" }
+            ],  
+        "category":  "Saucisseries crues",
+        "image":  "images/Cech-SF.png"
+    },
+    {
+        "name":  "Merguez de bœuf",
+        "refs": [
+            {  "ref":  "813966-PFS",  "weight":  "5 kg" },
+            {  "ref":  "813508-PF",  "weight":  "1 kg" }
+            ],  
+        "category":  "Saucisseries crues",
+        "image":  "images/MER-SF.png"       
+    },
+    {
+         "name":  "Cervelas courbe",
+         "refs": [
+             {  "ref":  "8013GV-PF",  "weight":  "1,2 kg" }
+         ],
+            "category":  "Charcuteries",
+            "image":  "images/CERVELAS01-SF.png"
+    },
+    {
+        "name":  "Délice de dinde",
+        "refs": [
+            {  "ref":  "8040GS-PF",  "weight":  "4 kg" }
+        ],
+            "category":  "Charcuteries",
+            "image":  "images/DELDINDE-SF.png"
+    },
+    {
+        "name":  "Roulade fromage",
+        "refs": [
+            {  "ref":  "8075GV-PF",  "weight":  "2,5 kg" }
+        ],
+            "category":  "Charcuteries",
+            "image":  "images/ROUFR01-SF.png"
+    },
+    {
+        "name":  "Saucisson de bœuf volaille",
+        "refs": [
+            {  "ref":  "813338-PF",  "weight":  "650 g" }
+        ],
+            "category":  "Charcuteries",
+            "image":  "images/SOUSSI01-SF.png"
+    },
+    {
+        "name":  "Roulade olives",
+        "refs": [
+            {  "ref":  "8095GV-PF",  "weight":  "2,5 kg" }
+        ],
+            "category":  "Charcuteries",
+            "image":  "images/ROUOL01-SF.png"
+    },
+    {
+        "name":  "Roulade pimentée",
+        "refs": [
+            {  "ref":  "8195GV-PF",  "weight":  "2,5 kg" }
+        ],
+            "category":  "Charcuteries",
+            "image":  "images/ROUOL01-SF.png"
+    },
+    {
+        "name":  "Roulade nature",
+        "refs": [
+            {  "ref":  "",  "weight":  "2,5 kg" }
+        ],
+            "category":  "Charcuteries",
+            "image":  "images/ROUNAT-SF.png"
+    },
+    {
+        "name":  "Roulade pistaches",
+        "refs": [
+            {  "ref":  "8090GV-PF",  "weight":  "2,5 kg" }
+        ],
+            "category":  "Charcuteries",
+            "image":  "images/ROUPI01-SF.png"
+    },
+    {
+        "name":  "Pastrami veau",
+        "refs": [
+            {  "ref":  "",  "weight":  "" }
+        ],
+            "category":  "Charcuteries",
+            "image":  "images/PASTRAMI02-SF.png"
+    },
+    {
+        "name":  "Roulade aux poivrons",
+        "refs": [
+            {  "ref":  "",  "weight":  "" }
+        ],
+            "category":  "Charcuteries",
+            "image":  "images/ROUpoiv-SF.png"
+    },
+    {
+        "name":  "Bœuf cuit à l'oriental",
+        "refs": [
+            {  "ref":  "",  "weight":  "" }
+        ],
+            "category":  "Charcuteries",
+            "image":  "images/BOEUFCUIT-SF.png"
+    },
+    {
+        "name":  "Bœuf 4 épices",
+        "refs": [
+            {  "ref":  "",  "weight":  "" }
+        ],
+            "category":  "Charcuteries",
+            "image":  "images/PASTRAMI-SF.png"
+    },
+    {
+        "name":  "Poitrine de veau cuite fumée bloc",
+        "refs": [
+            {  "ref":  "8123GV-PV",  "weight":  "1 kg" }
+        ],
+            "category":  "Charcuteries",
+            "image":  "images/POIT1KG01-SF.png"
+    },
+    {
+        "name":  "Basse cote de bœuf cuite fumée",
+        "refs": [
+            {  "ref":  "",  "weight":  "" }
+        ],
+            "category":  "Charcuteries",
+            "image":  "images/POIT1KG01-SF.png"
+    },
+    {
+        "name":  "Magret de canard fumé",
+        "refs": [
+            {  "ref":  "",  "weight":  "" }
+        ],
+            "category":  "Charcuteries",
+            "image":  "images/magret-SF.png"
+    },
+    {
+        "name":  "Brisket de bœuf cuite fumée",
+        "refs": [
+            {  "ref":  "",  "weight":  "" }
+        ],
+            "category":  "Charcuteries",
+            "image":  "images/BIRSKET-SF.png"
+    },
+    {
+        "name":  "Poulet fumé",
+        "refs": [
+            {  "ref":  "",  "weight":  "" }
+        ],
+            "category":  "Charcuteries",
+            "image":  "images/POULROT.png"
+    },
+    {
+         "name": "Dés de bolognaise",
+         "refs": [
+             { "ref": "8202GA-PV", "weight": "5 kg" },
+             { "ref": "", "weight": "2,4 kg" }
+         ],
+            "category": "Aides culinaires",
+            "image": "images/BOLO01-SF.png"
+    },
+    {
+        "name": "Chori'snack précuits",
+        "refs": [
+            { "ref": "814270-PF", "weight": "5 kg" },
+            { "ref": "813393-PF", "weight": "500 g" }
+        ],
+            "category": "Aides culinaires",
+            "image": "images/CHOSNACK01-SF.png"
+    },
+    {
+        "name": "Emincé de Kebab de volaille nature",
+        "refs": [
+            { "ref": "814346-PFS", "weight": "5 kg" },
+            { "ref": "", "weight": "500 g" }
+        ],
+            "category": "Aides culinaires",
+            "image": "images/CHOSNACK01-SF.png"
+    },
+    {
+        "name": "Allumettes de dinde",
+        "refs": [
+            { "ref": "814271-PF", "weight": "5 kg" },
+            { "ref": "814238-PF", "weight": "2,4 kg" }
+        ],
+            "category": "Aides culinaires",
+            "image": "images/ALL01-SF.png"
+    },
+    {
+        "name": "Rondelles de merguez précuites",
+        "refs": [
+            { "ref": "", "weight": "5 kg" },
+            { "ref": "813391-PF", "weight": "500 g" }
+        ],
+            "category": "Aides culinaires",
+            "image": "images/MERSNACK01-SF.png"
+    },
+    {
+        "name": "Emincé de volaille Tex Mex",
+        "refs": [
+            { "ref": "814345-PFS", "weight": "5 kg" },
+            { "ref": "", "weight": "500 g" }
+        ],
+            "category": "Aides culinaires",
+            "image": "images/KEBABTM01-SF.png"
+    },
+    {
+        "name": "Allumettes de veau",
+        "refs": [
+            { "ref": "813712-PF", "weight": "300 g" }
+        ],
+            "category": "Aides culinaires",
+            "image": "images/ALLVEAU-SF.png"
+    },
+    {
+        "name": "Timbres de bœuf cuit à l'oriental",
+        "refs": [
+        ],
+            "category": "Aides culinaires",
+            "image": "images/TimbreBOEUF-SF.png"
+    },
+    {
+        "name": "Dés de poulet",
+        "refs": [
+        ],
+            "category": "Aides culinaires",
+            "image": "images/DEPOUL-SF.png"
+    },
+    {
+        "name": "Allumettes de poulet",
+        "refs": [
+        ],
+            "category": "Aides culinaires",
+            "image": "images/ALLPOU-SF.png"
+    },
+    {
+        "name": "Timbres de dinde",
+        "refs": [
+            { "ref": "8143GA-PVS", "weight": "5 kg" }
+        ],
+            "category": "Aides culinaires",
+            "image": "images/TimbreDINDE-SF.png"
+    },
+    {
+        "name": "Bacon de veau fumé tranché",
+        "refs": [
+            { "ref": "813894-PF", "weight":  "300 g" }
+        ],
+            "category": "Aides culinaires",
+            "image": "images/POITTRANCHE01-SF.png"
+    },
+    {
+   "name": "cheeseburger",
+   "refs": [
+       { "ref": "813506-PF", "weight": "125 g" }
+   ],
+    "category": "Fast Food",
+    "image": "images/CHESSE01-SF.png"
+    },
+    {
+    "name": "Hot dog",
+    "refs": [
+        {  "ref":  "",  "weight":  "" }
+    ],
+        "category": "Fast Food",
+        "image": "images/HOTDOG-SF.png"
+    },
+    {
+    "name": "Chickenburger",
+    "refs": [
+        {  "ref":  "8203FT-PF",  "weight":  "140 g" }
+    ],
+        "category": "Fast Food",
+        "image": "images/CHICKEN01-SF.png"
+    }
+
+]
