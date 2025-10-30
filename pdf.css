@@ -1,0 +1,168 @@
+/* ===== Global ===== */
+body {
+  margin: 0;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background: #f5f5f5;
+}
+
+.page {
+  width: 210mm;
+  height: 297mm;
+  padding: 20mm;
+  box-sizing: border-box;
+  page-break-after: always;
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.cover-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.cover-title {
+  font-size: 48px;
+  font-weight: bold;
+  color: #c0392b;
+  margin-bottom: 15mm;
+}
+
+.cover-subtitle {
+  font-size: 22px;
+  color: #34495e;
+}
+
+.page-header {
+  width: 100%;
+  background-color: #c0392b;
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+  padding: 6mm 0;
+  margin-bottom: 8mm;
+  border-radius: 5px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-auto-rows: 70mm;   /* hauteur parfaite pour 3 lignes sur A4 */
+  gap: 10mm;              /* espacement horizontal et vertical */
+  justify-items: center;
+  align-items: start;
+  padding-bottom: 5mm;
+}
+
+.card {
+  width: 95%;
+  height: 100%;          /* occupe la hauteur de 70mm */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 6mm;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  background: #fcfcfc;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+  box-sizing: border-box;
+}
+
+.card img {
+  max-width: 100%;
+  max-height: 60%;
+  object-fit: contain;
+  margin-bottom: 4mm;
+}
+
+.card .refs {
+  margin-top: auto;
+  width: 100%;
+  font-size: 12px;
+  color: #34495e;
+}
+
+.page-number {
+  position: absolute;
+  bottom: 10mm;
+  width: 100%;
+  text-align: center;
+  font-size: 12px;
+  color: #7f8c8d;
+  font-style: italic;
+}
+
+.sommaire-item {
+  font-size: 16px;
+  margin-bottom: 5mm;
+}
+
+/* ===== 4th page specific styles ===== */
+.fourth-cover {
+  background: linear-gradient(135deg, #c0392b 0%, #e74c3c 100%);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20mm;
+  page-break-after: always;
+}
+
+.fourth-cover .cover-content {
+  max-width: 160mm;
+}
+
+.fourth-cover .cover-title {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 12mm;
+}
+
+.fourth-cover p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.fourth-cover .small {
+  font-size: 12px;
+  margin-top: 20mm;
+  color: #f0f0f0;
+}
+
+/* ===== Imprimable centré pour PDF ===== */
+@media print {
+  body, html {
+    margin: 0;
+    padding: 0;
+  }
+
+  .page {
+    margin: 0 auto;  /* centre les pages horizontalement */
+  }
+
+  .grid {
+    justify-items: center; /* centre les cartes horizontalement */
+  }
+
+  .cover-page, .fourth-cover {
+    justify-content: center;
+    align-items: center;   /* centre verticalement et horizontalement */
+    text-align: center;
+  }
+
+  .card {
+    margin: 0 auto;        /* centre chaque carte */
+  }
+
+  * {
+    overflow: visible !important;
+  }
+}
